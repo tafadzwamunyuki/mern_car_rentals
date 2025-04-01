@@ -1,0 +1,167 @@
+{
+    "data": [
+        {"exceptionalService" : [
+            {
+                "id": 1,
+                "image": "./response.png",
+                "title": "SWIFT RESPONSE",
+                "description":"At Your Service for Ensuring Fast and Reliable Service for Your Car Rental Needs"
+            },
+            {
+                "id": 2,
+                "image": "./service.png",
+                "title": "EXCEPTIONAL SERVICE",
+                "description":"We Focus On Elevating Your Car Rental Experience with Quality and Care"
+            },
+            {
+                "id": 3,
+                "image": "./value.png",
+                "title": "BEST VALUE FOR YOUR MONEY",
+                "description":"Affordable, Reliable, and Quality Car Rentals For Only You Our Superior Clients"
+            }
+        ],
+        "rentalCars": [
+            {
+                "id": 1,
+                "image": "./maserratti.jpg",
+                "title": "Maserratti Sport",
+                "category": "sport"
+            },
+
+            {
+                "id": 2,
+                "image": "./merc_A_Class.jpg",
+                "title": "Mercedes A Class",
+                "category": "hatchback"
+            },
+
+            {
+                "id": 3,
+                "image": "./mercedes.jpg",
+                "title": "Convertible Mercedes Benz",
+                "category": "sport"
+            },
+
+            {
+                "id": 4,
+                "image": "./bmw.jpg",
+                "title": "BMW 3 Series",
+                "category": "sedan"
+            },
+
+            {
+                "id": 5,
+                "image": "./range.jpg",
+                "title": "Range Rover",
+                "category": "SUV"
+            },
+
+            {
+                "id": 6,
+                "image": "./mercedes_benz.jpg",
+                "title": "Mercedes MLE",
+                "category": "SUV"
+            },
+
+            {
+                "id": 7,
+                "image": "./mercedes_G.jpg",
+                "title": "Mercedes G-Wagon",
+                "category": "SUV"
+            },
+
+            {
+                "id": 8,
+                "image": "./maserati-levante-4179432_1280.jpg",
+                "title": "Maserratti Levante",
+                "category": "Crossover"
+            },
+
+            {
+                "id": 9,
+                "image": "./ford.jpg",
+                "title": "Ford Fiesta",
+                "category": "sport"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./review_1.png",
+                "name": "AMY JONES",
+                "designation": "Founder & Managing Director"
+            },
+            {
+                "id": 2,
+                "image": "./review_3.png",
+                "name": "GEORGE RAINES",
+                "designation": "Marketing Manager"
+            },
+            {
+                "id": 3,
+                "image": "./review_2.png",
+                "name": "AMY FERNANDO",
+                "designation": "Head Of Advertising"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_3.png",
+                "name": "TOM JONES",
+                "designation": "Events Planner"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "9",
+                "title": "Cars Available For Rent"
+            },
+            {
+                "id": 2,
+                "number": "6",
+                "title": "Organizational Awards Won This Year"
+            },
+            {
+                "id": 3,
+                "number": "4",
+                "title": "Staff Members At Your Service"
+            },
+            {
+                "id": 4,
+                "number": "6",
+                "title": "New Cars Arriving Soon"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "services"
+            },
+
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    }
+    ]
+}
